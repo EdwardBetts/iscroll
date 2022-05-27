@@ -255,7 +255,7 @@ Default: `true`
 
 ### <small>options.</small>scrollbars
 
-Wheter or not to display the default scrollbars. See more in the [Scrollbar](#scrollbar) section.
+Whether or not to display the default scrollbars. See more in the [Scrollbar](#scrollbar) section.
 
 Default: `false`.
 
@@ -459,7 +459,7 @@ Please refer to the [parallax demo](http://lab.cubiq.org/iscroll5/demos/parallax
 
 ## Scrolling programmatically
 
-You silly! Of course you can scroll programmaticaly!
+You silly! Of course you can scroll programmatically!
 
 ### scrollTo(x, y, time, easing)
 
